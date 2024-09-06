@@ -1,0 +1,28 @@
+.box {
+    width: 900px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+}
+
+.btn-primary {
+    background: #286090;
+    border: 0;
+}
+
+.btn-danger {
+    background: #d9534f;
+}
+
+.btn-success {
+    background: #5cb85c;
+}
+
+h2 {
+    color: #277fcb;
+    font-size: 1.5rem;
+}
+
+input {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
